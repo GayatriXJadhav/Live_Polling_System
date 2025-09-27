@@ -4,7 +4,7 @@ import { useEffect } from "react";
 import Form from "./Form";
 import History from "./History";
 import LivePoll from "./LivePoll";
-import Button from "../../components/Button";
+import Button from "../../shared/Button";
 
 
 

@@ -1,6 +1,6 @@
 
-import PollResults from "../../components/PollResults";
-import PollForm from "../../components/PollForm";
+import PollResults from "../../shared/PollResults";
+import PollForm from "../../shared/PollForm";
 
 const PollPage = ({
     poll,

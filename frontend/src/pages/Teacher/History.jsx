@@ -1,6 +1,6 @@
 import React from 'react'
-import PollResults from '../../components/PollResults'
-import Button from '../../components/Button';
+import PollResults from '../../shared/PollResults'
+import Button from '../../shared/Button';
 
 const History = ({ results, history,options, question, setViewMode }) => {
   console.log("History Page called");

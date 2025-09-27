@@ -1,6 +1,6 @@
 import React from 'react'
-import Button from '../../components/Button'
-import PollResults from '../../components/PollResults'
+import Button from '../../shared/Button'
+import PollResults from '../../shared/PollResults'
 
 const LivePoll = ({ question, options, results, onSubmit }) => {
   console.log("Live Poll Render");

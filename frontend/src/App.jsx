@@ -4,7 +4,7 @@ import './App.css'
 import HomePage from './pages/HomePage'
 import TeacherPage from './pages/Teacher/TeacherPage'
 import StudentPage from './pages/Student/StudentPage'
-import Layout from "./components/Layout";
+
 
 function App() {
   return (
